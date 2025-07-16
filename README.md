@@ -47,11 +47,11 @@ sensor:
 
 ## ⚙️ Example Configurations
 
-You can find complete, working example configurations for each component in the **[/configurations](./configurations)** directory. These files provide a practical and tested starting point for your own projects and include detailed calibration guides.
+You can find complete, working example configurations for each component in the **[/configurations](./configurations/)** directory. These files provide a practical and tested starting point for your own projects and include detailed calibration guides.
 
 ## Legacy Configurations
 
-The **[/configurations/legacy](./configurations/legacy)** directory contains updated versions of code that I may have previously posted on other platforms, such as the Home Assistant Community Forum. If you are looking for the most recent version of my older, publicly shared projects, you will likely find them here.
+The **[/configurations/legacy](./configurations/legacy/)** directory contains updated versions of code that I may have previously posted on other platforms, such as the Home Assistant Community Forum. If you are looking for the most recent version of my older, publicly shared projects, you will likely find them here.
 
 ## 🐞 Issues & Suggestions
 

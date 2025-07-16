@@ -4,7 +4,7 @@ This is a custom ESPHome component designed for advanced sound level and volume 
 
 It is built to be **non-blocking and stable**, allowing for high-frequency sampling (e.g., every 20ms) without interfering with essential network operations like the Wi-Fi connection and Home Assistant API, thanks to its smart polling schedule.
 
-A complete example configuration file, [`volume-sensor.yaml`](./configurations/volume-sensor.yaml), is available in the [`/configurations`](./configurations) directory of this repository for a practical starting point.
+A complete example configuration file, [`volume-sensor.yaml`](./volume-sensor.yaml), is available in the [`/configurations`](../configurations) directory of this repository for a practical starting point.
 
 ## Key Features 🔊
 
@@ -65,7 +65,7 @@ After calibrating the hardware, you can fine-tune the sensor's behavior in your 
 
 ### Full Configuration Example
 
-The YAML code below is a complete, best-practice example. You can also find this file at [`/configurations/volume-sensor.yaml`](./configurations/volume-sensor.yaml).
+The YAML code below is a complete, best-practice example. You can also find this file at [`/configurations/volume-sensor.yaml`](./volume-sensor.yaml).
 
 ```yaml
 # This automation is CRUCIAL for stability.
